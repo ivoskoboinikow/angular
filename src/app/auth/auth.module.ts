@@ -13,7 +13,7 @@ import { SharedModule } from '../shared/shared.module';
 	declarations: [
 		RegistrationComponent, 
     LoginComponent,
-				AuthComponent
+    AuthComponent
   ],
   imports: [
           CommonModule,
